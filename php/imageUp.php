@@ -11,7 +11,7 @@
     );
     //上传文件目录
     $Path = "upload/";
-    //测试
+    //测试weqweq
 
     //背景保存在临时目录中
     $config[ "savePath" ] = $Path;
